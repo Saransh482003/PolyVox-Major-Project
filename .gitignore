@@ -1,0 +1,7 @@
+server/env/
+server/bark_cache/
+server/backend/bark_cache/
+server/backend/videos/
+server/backend/audios/
+polyvox/public/Audios/
+polyvox/public/Videos/
